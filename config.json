@@ -1,0 +1,8 @@
+{
+  "graphql_endpoint": "https://api.eu.traceable.ai/graphql",
+  "bearer_token": "MDFkYjQyNjMtMmI2Ny00NDE2LTg4MzctZGI2MWNmMWExNTQ4",
+  "start_time": "2024-08-01T17:29:29.793Z",
+  "end_time": "2024-08-14T17:29:29.793Z",
+  "output_csv": "service_dependency_info.csv",
+  "log_file": "service_dependency.log"
+}
